@@ -1,3 +1,0 @@
-C:/Pico/Projects/guitar_distortion/build/pioasm/CMakeFiles/pioasm.dir
-C:/Pico/Projects/guitar_distortion/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Pico/Projects/guitar_distortion/build/pioasm/CMakeFiles/rebuild_cache.dir
