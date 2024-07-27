@@ -39,7 +39,7 @@ unit16_t get_adc_sample() {
     adc_fifo_drain();
     adc_run(true);
     while (adc_fifo_is_empty()){
-        tight_loop_contenst();
+        tight_loop_contents();
     }
     uint16_t sample = adc_fifo.get();
     adc_run(false);
